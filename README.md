@@ -1,6 +1,7 @@
 # MyBatis-MySQL-CRUD
 
-CREATE TABLE  detailsstudent.student(
+
+CREATE TABLE  details.student(
    ID int(10) NOT NULL AUTO_INCREMENT,  
    NAME varchar(100) NOT NULL,
    BRANCH varchar(255) NOT NULL,
